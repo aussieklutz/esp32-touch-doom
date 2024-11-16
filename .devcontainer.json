@@ -1,3 +1,6 @@
 {
-    "image": "docker.io/espressif/idf"
+    "image": "docker.io/espressif/idf",
+    "containerEnv": {
+        "IDF_PATH": "/opt/esp/esp-idf"
+    }
 }

@@ -18,4 +18,5 @@ For a display, a 1.8" LCD with a ST7735S controller
 - Uses a SPI interface, by default for a ILI9341 display driver chip
 - Our display uses an ST7735S driver and I2C interface
 - Need to replace the existing SPI Display driver library
-- 
+- Scratch this for now. Working on getting the project building in a devcontainer.
+
